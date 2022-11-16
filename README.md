@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full stack web developer
+Full stack web developer. Senior developer at ZenProjects.
+
+[![](https://visitcount.itsvg.in/api?id=rahularyan&icon=5&color=10)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rahularyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
@@ -16,11 +18,7 @@ Full stack web developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=rahularyan&icon=5&color=10)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nerdaryan) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
